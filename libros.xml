@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bib>
+    <libro ano="1995">
+        <titulo>La sombra del viento</titulo>
+        <autor>
+            <nombre>Carlos Ruiz Zafón</nombre>
+            <apellido>Ruiz Zafón</apellido>
+        </autor>
+        <precio>65.95</precio>
+        <editorial>Planeta</editorial>
+    </libro>
+    <libro ano="2000">
+        <titulo>El código Da Vinci</titulo>
+        <autor>
+            <nombre>Dan Brown</nombre>
+            <apellido>Brown</apellido>
+        </autor>
+        <precio>65.95</precio>
+        <editorial>Planeta</editorial>
+    </libro>
+    <libro ano="1992">
+        <titulo>El juego del ángel</titulo>
+        <autor>
+            <nombre>Carlos Ruiz Zafón</nombre>
+            <apellido>Ruiz Zafón</apellido>
+        </autor>
+        <precio>45.00</precio>
+        <editorial>Planeta</editorial>
+    </libro>
+    <libro ano="2005">
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <autor>
+            <nombre>J.K. Rowling</nombre>
+            <apellido>Rowling</apellido>
+        </autor>
+        <precio>65.95</precio>
+        <editorial>Salamandra</editorial>
+    </libro>
+    <libro ano="1998">
+        <titulo>El alquimista</titulo>
+        <autor>
+            <nombre>Paulo Coelho</nombre>
+            <apellido>Coelho</apellido>
+        </autor>
+        <precio>35.00</precio>
+        <editorial>Planeta</editorial>
+    </libro>
+</bib>

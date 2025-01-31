@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envio>
+    <poliza externa="true">
+        <tomador>
+            <nombre>Juan Pérez</nombre>
+            <nif>12345678A</nif>
+        </tomador>
+        <asegurado>
+            <nombre>Maria García</nombre>
+            <garantia tipo="Dental" vigor="S">
+                <capital>20000</capital>
+            </garantia>
+            <garantia tipo="Vida" vigor="N">
+                <capital>50000</capital>
+            </garantia>
+        </asegurado>
+        <asegurado>
+            <nombre>Carlos López</nombre>
+            <garantia tipo="Vida" vigor="S">
+                <capital>30000</capital>
+            </garantia>
+        </asegurado>
+    </poliza>
+    <poliza>
+        <tomador>
+            <nombre>Ana Torres</nombre>
+            <nif>87654321B</nif>
+        </tomador>
+        <asegurado>
+            <nombre>Juan Ruiz</nombre>
+            <garantia tipo="Hogar" vigor="S">
+                <capital>80000</capital>
+            </garantia>
+        </asegurado>
+    </poliza>
+    <poliza>
+        <tomador>
+            <nombre>Pedro Díaz</nombre>
+            <nif>11223344C</nif>
+        </tomador>
+        <asegurado>
+            <nombre>Lucía Fernández</nombre>
+            <garantia tipo="Dental" vigor="S">
+                <capital>10000</capital>
+            </garantia>
+            <garantia tipo="Hogar" vigor="N">
+                <capital>15000</capital>
+            </garantia>
+        </asegurado>
+    </poliza>
+</envio>
